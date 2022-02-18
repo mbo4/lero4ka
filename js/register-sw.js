@@ -1,0 +1,1 @@
+"serviceWorker"in navigator&&navigator.serviceWorker.register("/sw.js?v=26").then((function(){}));
